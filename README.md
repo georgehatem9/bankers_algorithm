@@ -1,4 +1,4 @@
-# banker's algorithm 
+# banker's algorithm - George Hatem 19104121
 
 def banker(resources, available, allocation, maximum):
     # Step 1: Initialize data structures
